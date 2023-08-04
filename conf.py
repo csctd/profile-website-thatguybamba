@@ -2,7 +2,7 @@
 
 project = 'Site Title'
 copyright = '2022, Your name'
-author = 'Your Name'
+author = 'Bamba Youssouf'
 
 
 
