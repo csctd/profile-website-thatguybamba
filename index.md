@@ -1,6 +1,6 @@
-# Page Title
+# Bamba G's Page
 
-A short introduction for the top of your main page
+Watch a goat code, Bamba Youssouf, class of 2027
 
 
 More content you want on your page
