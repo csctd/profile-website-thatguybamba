@@ -2,7 +2,7 @@
 
 project = 'Site Title'
 copyright = '2022, Your name'
-author = 'Your Name'
+author = 'Bamba Youssouf'
 
 
 
@@ -21,7 +21,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     "sphinx_design",
     "sphinxext.opengraph",
-    
+]
 
 
 # "sphinxext.rediraffe",
