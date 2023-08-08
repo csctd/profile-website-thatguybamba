@@ -54,5 +54,13 @@ Since you're here, you might be:
 - Want to know more about me
 - Relate to my life and ask questions
 
+## Design
+- My web design will use selection of color and size, using grouping methods, I will organize related content, helping others in connections and context. By maintaining consistent visual images and using similarity, giving a good expierence by having my goals, achievements, etc.
 
+  
+  ## Accescibility
+  - There is a text to speech feature for others who have visual impairments
+  - Color Switching for colorblind users
+  - Font Size Options
+  - Structuring my page
 
