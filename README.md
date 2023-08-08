@@ -42,3 +42,25 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+
+# Profile Website
+
+Welcome to my profile webiste, 
+<!-- computer science majors and other of interest -->
+
+Since you're here, you might be: 
+
+- Interested in my achievements
+- Want to know more about me
+- Relate to my life and ask questions
+
+## Design
+- My web design will use selection of color and size, using grouping methods, I will organize related content, helping others in connections and context. By maintaining consistent visual images and using similarity, giving a good expierence by having my goals, achievements, etc.
+
+  
+  ## Accescibility
+  - There is a text to speech feature for others who have visual impairments
+  - Color Switching for colorblind users
+  - Font Size Options
+  - Structuring my page
+
