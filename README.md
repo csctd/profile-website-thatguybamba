@@ -46,9 +46,13 @@ this should install a Sphinx environment and build the site, putting the output 
 # Profile Website
 
 Welcome to my profile webiste, 
-<!-- enter your target audience after the comma above -->
+<!-- computer science majors and other of interest -->
 
 Since you're here, you might be: 
-<!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
+
+- Interested in my achievements
+- Want to know more about me
+- Relate to my life and ask questions
+
 
 
