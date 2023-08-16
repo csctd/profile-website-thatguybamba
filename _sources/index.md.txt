@@ -3,7 +3,7 @@
 Watch a goat code, Bamba Youssouf, class of 2027
 
 
-More content you want on your page
+
 ![a pic of me](_static/img/franklinsaint.gif)
 :::
 
